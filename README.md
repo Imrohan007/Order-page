@@ -40,3 +40,14 @@ How to structure a web page with semantic HTML elements (<header>, <main>, <foot
 How to apply CSS styles to enhance visual appearance
 
 The basics of organizing a frontend-only project
+
+
+
+📱 Mobile Responsive Design
+
+✅ Implemented media queries
+✅ Layout adjusts for different screen sizes
+✅ Fonts and elements scale for mobile screens
+✅ Navigation and content stack vertically on smaller devices
+
+You can test it by resizing your browser or using Chrome DevTools → Device Toolbar.
